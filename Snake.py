@@ -1,5 +1,3 @@
-# Snake Game using Turtle in Python ✅ Source Code 👇👇
-
 # import required modules
 import turtle
 import time
